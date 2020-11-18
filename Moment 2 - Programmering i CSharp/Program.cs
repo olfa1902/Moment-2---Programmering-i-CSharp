@@ -4,7 +4,6 @@ namespace Moment_2___Programmering_i_CSharp
 {
     class Program
     {
-        // Driver Code
         public static void Main()
         {
             // Bool and while-loop is created and allows the user to restart the application without the client exiting
